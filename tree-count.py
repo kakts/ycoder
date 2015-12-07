@@ -1,3 +1,5 @@
+// http://yukicoder.me/problems/14
+// number block
 
 l = int(input())
 num = int(input())
